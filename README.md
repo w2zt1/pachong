@@ -5,5 +5,3 @@ python爬虫入门学习，我会将我学习过程中所需要的代码记录�
 
 人生苦短，我选python！
 
-![大神求带](https://i.loli.net/2020/03/27/bdtZGue3OpPzsxR.gif)
-
