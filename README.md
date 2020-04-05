@@ -5,3 +5,4 @@ python爬虫入门学习，我会将我学习过程中所需要的代码记录�
 
 人生苦短，我选python！
 
+所有文件食用方式为`jupyter notebook`
